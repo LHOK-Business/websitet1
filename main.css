@@ -1,0 +1,12 @@
+
+@import url('components/style.css'); 
+
+@import url('components/header.css');
+
+@import url('components/footer.css');
+
+@import url('components/buttons.css');
+
+@import url('variables.css');
+
+@import url('layout/grid.css');
